@@ -7,7 +7,7 @@ Creating the project (Completed) <br>
 Amendment of settings.py and Database migration (Completed) <br>
 Created app for blog (Completed) <br>
 Update models.py to create new models and functions (Completed) <br>
-
+Create admin page to manage contents of the django project (Completed) <br>
 
 
 # Notes
