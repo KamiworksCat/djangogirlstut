@@ -1,0 +1,6 @@
+# Ignore virutal environment
+djangogirltut/
+
+# Ignore .idea
+.idea/
+.idea/*
