@@ -8,3 +8,6 @@ djangogirltut/
 # Ignore specified files
 /tutsite/tutsite/local_settings.py
 /tutsite/db.sqlite3
+/tutsite/__pycache__
+/tutsite/staticfiles
+/tutsite/*.py[co]
