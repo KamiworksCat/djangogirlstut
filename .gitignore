@@ -4,3 +4,7 @@ djangogirltut/
 # Ignore .idea
 /.idea/
 .idea/*
+
+# Ignore specified files
+/tutsite/tutsite/local_settings.py
+/tutsite/db.sqlite3
